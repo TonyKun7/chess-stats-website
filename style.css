@@ -33,7 +33,7 @@ main#app > img{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    width: 25vw;
+    width: 40vw;
 }
 
 #buttons > a{
